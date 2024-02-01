@@ -9,4 +9,4 @@ support OS: Windows 8, Windows 8.1, Windows 10, Windows 11
 また、バーチャルマシン上での実行を推奨します
 対応OS: Windows8, Windows8.1, Windows10, Windows 11
 
-coded by nk
+coded by nk, use C#
